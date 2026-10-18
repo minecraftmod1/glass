@@ -3,5 +3,5 @@
   "package": "dev.glassplayer.mixin",
   "compatibilityLevel": "JAVA_21",
   "client": ["PlayerEntityRendererMixin"],
-  "injectors": { "defaultRequire": 1 }
+  "injectors": { "defaultRequire": 0 }
 }
